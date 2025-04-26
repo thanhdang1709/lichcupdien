@@ -1,0 +1,1046 @@
+[
+    {
+        "power_company": "Điện lực Huyện Châu Thành",
+        "date": "27 tháng 4 năm 2025",
+        "time": "Từ 07:30 đến 18:00",
+        "area": "Một phần TT An Châu (khu vực dọc QL 91 bên tay phải từ cầu Xếp Bà Lý đến cầu Mương Út Xuân) Huyện Châu Thành",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-27"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "27 tháng 4 năm 2025",
+        "time": "Từ 08:00 đến 11:30",
+        "area": "TBA Mắm Cô Tư Ấu, đường Phạm Văn Bạch, phường Núi Sam, Tp. Châu Đốc.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-27"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "27 tháng 4 năm 2025",
+        "time": "Từ 13:00 đến 15:00",
+        "area": "Ngân hàng Ngoại thương CN Châu Đốc (Vietcombank Châu Đốc), đường Lê Lợi, phường Châu Phú B, Tp. Châu Đốc.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-27"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 11:00 đến 12:00",
+        "area": "Khu vực Nhà máy Đông Lạnh Mỹ Quý, phường Mỹ Quý - TP. Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 11:00 đến 12:00",
+        "area": "Khu vực Cty AFA, Bê Tông Ly Tâm, phường Mỹ Thới - TP. Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 11:00 đến 12:00",
+        "area": "Một phần Bình Đức (khu vực từ cầu Cần Xây đến cầu Xếp Bà Lý phía bên phải) - TP. Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Thành",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Một phần xã Vĩnh Thành (khu vực từ Tb 6 Miên đến 6 Dương, KDC Tân Thành) huyện Châu Thành",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Huyện Chợ Mới",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 07:30 đến 18:00",
+        "area": "Xã Long Kiến, một phần xã Long Điền B (từ Trạm Y Tế xã Long Điền B cũ đến chợ Bà Vệ), một phần xã Hòa Bình (từ cầu Cái Gia đến cầu An Thái), ấp An Quới, An Thị thuộc xã An Thạnh Trung, một phần xã Long Giang (từ bến đò Cà Mau đến KDC Sơn Đốt), cồn Nhơn Mỹ thuộc xã Nhơn Mỹ – huyện Chợ Mới.",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Huyện Chợ Mới",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 07:30 đến 18:00",
+        "area": "Xã Long Kiến, một phần xã Long Điền B (từ Trạm Y Tế xã Long Điền B cũ đến chợ Bà Vệ), một phần xã Hòa Bình (từ cầu Cái Gia đến cầu An Thái), ấp An Quới, An Thị thuộc xã An Thạnh Trung, một phần xã Long Giang (từ bến đò Cà Mau đến KDC Sơn Đốt), cồn Nhơn Mỹ thuộc xã Nhơn Mỹ – huyện Chợ Mới.",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 07:30 đến 09:00",
+        "area": "Trạm Ông Mẫn B trụ 478-480PT/52 tuyến 478PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 10:00 đến 11:00",
+        "area": "Trạm T1 Phú Thạnh – Phú Tân trụ 480PT/432/05 tuyến 480PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 13:00 đến 14:00",
+        "area": "Trạm CDC Phú Lạc trụ 475PT/329/62/59 tuyến 475PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 14:30 đến 15:30",
+        "area": "Trạm T4 Hòa Lạc - Phú Bình trụ 472PT/377 tuyến 475PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "28 tháng 4 năm 2025",
+        "time": "Từ 15:30 đến 17:00",
+        "area": "Trạm T5 Hòa Lạc - Phú Bình trụ 472PT/360 tuyến 475PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-04-28"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "5 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 13:00",
+        "area": "Tại CTy TNHH Hiếu Mỹ, phường Bình Khánh - TP. Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-05"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "5 tháng 5 năm 2025",
+        "time": "Từ 10:30 đến 16:30",
+        "area": "Tại Nhà khách VP UBND Tỉnh AG, phường Mỹ Bình - TP. Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-05"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "5 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 08:30",
+        "area": "Trạm CDC Hiệp Xương trụ 472PT/138 tuyến 472PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-05"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "5 tháng 5 năm 2025",
+        "time": "Từ 09:00 đến 10:30",
+        "area": "Trạm Mai Văn Phương trụ 472PT/179/01 tuyến 472PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-05"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "5 tháng 5 năm 2025",
+        "time": "Từ 10:30 đến 11:30",
+        "area": "Trạm T9A Bình Thạnh Đông trụ 472PT/203 tuyến 472PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-05"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "5 tháng 5 năm 2025",
+        "time": "Từ 13:30 đến 14:30",
+        "area": "Trạm Tuyến Lộ Đông Sông Hậu trụ 472PT/286/17 tuyến 472PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-05"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "5 tháng 5 năm 2025",
+        "time": "Từ 11:00 đến 11:30",
+        "area": "Ấp Tân Thuận xã Tân Lợi, ấp An Lợi xã An Hảo - TX. Tịnh Biên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-05"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "5 tháng 5 năm 2025",
+        "time": "Từ 11:00 đến 11:30",
+        "area": "Xã An Cư (khu vực từ trạm bơm 3 tháng 2 cấp I, đến trạm bơm 3 tháng 2 cấp II, xã An Nông (khu vực từ trạm bơm 3 tháng 2 cấp II đến cầu 23 An Nông, và hướng từ cầu 22 đến trường THCS Trần Quang Khải) - TX. Tịnh Biên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-05"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "5 tháng 5 năm 2025",
+        "time": "Từ 17:00 đến 17:30",
+        "area": "Phường Tịnh Biên, một phần xã An Nông (khu vực ấp Tân Biên đoạn cặp quốc Lộ N1) – TX. Tịnh Biên. Một phần huyện Kirivong tỉnh TaKeo - CPC",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-05"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 12:30",
+        "area": "Một phần phường Mỹ Thới (một phần khu vực ngọn rạch Gòi Lớn) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 12:00",
+        "area": "Mộp phần phường Bình Đức (khu vực Bến đò Lò gạch Nam Phương) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 13:00",
+        "area": "Một phần phường Mỹ Hòa (khu vực ngọn Mương Điểm) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 13:00",
+        "area": "Một phần phường Mỹ Thạnh (khu vực từ Cổng kho Điện Lực đến ngã 3 phà vàm Cống bên phải) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 13:00 đến 17:00",
+        "area": "Một phần phường Bình Đức (khu vực Quốc lộ 91 phía bên trái đoạn từ Tu Viện Nguồn Sống đến cầu Cần Xây) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 13:00 đến 17:00",
+        "area": "Một phần phường Mỹ Thới (khu vực Vàm Cái Sao Trên từ chợ Cái Sao đến cổng sau XN Bê tông Ly tâm) - TP. Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 17:00",
+        "area": "Trạm biến áp Cổ Huy Hồng thuộc thị trấn Vĩnh Thạnh Trung; trạm biến ấp Nguyễn Nhơn Bình, trạm công cộng Tuyến Dân Cư Ấp Mỹ Trung, Lê Văn Sến thuộc xã Mỹ Phú - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 07:30",
+        "area": "xã Ô Long Vỹ, ấp Mỹ Quý, Mỹ An, Mỹ Thạnh, ấp Mỹ Hưng xã Mỹ Phú, một phần ấp Mỹ Thiện, Mỹ Thành xã Mỹ Đức - Huyện Châu Phú .",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp Cơ Sở Sản Xuất Gạch Ngói Thanh Tân - Kim Huệ thuộc xã Bình Thủy - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp T5 Bình Thủy thuộc xã Bình Thủy - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp Trạm Bơm Kênh 4 Bắc Mương Trâu thuộc xã Bình Mỹ - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 08:30 đến 09:30",
+        "area": "Tổ 31 ấp Bình Trung thuộc xã Bình Mỹ - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 11:00 đến 12:00",
+        "area": "Tổ 15 ấp Bình Thuận, tổ 15 ấp Bình Thắng thuộc xã Bình Long - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 13:30 đến 14:30",
+        "area": "Tổ 1, 2 ấp Bình Tây thuộc xã Bình Phú - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 17:00 đến 17:30",
+        "area": "xã Ô Long Vỹ, ấp Mỹ Quý, Mỹ An, Mỹ Thạnh, ấp Mỹ Hưng xã Mỹ Phú, một phần ấp Mỹ Thiện, Mỹ Thành xã Mỹ Đức - Huyện Châu Phú .",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 08:30",
+        "area": "Trạm Đỗ Thị Ngọc Tuyền trụ 472PT/323 tuyến 472PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 09:30 đến 11:00",
+        "area": "Trạm T3A Nam Kênh Phú Bình trụ 472PT/335/12 tuyến 472PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 13:00 đến 14:00",
+        "area": "Trạm Trương Thị Hiền trụ 472PT/335/36/01 tuyến 472PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 14:30 đến 15:00",
+        "area": "Trạm T3 Hòa Lạc trụ 472PT/388 tuyến 475PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 15:30 đến 17:00",
+        "area": "Trạm Trần Văn Phát (2) trụ 472PT/393/01 tuyến 475PT.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "6 tháng 5 năm 2025",
+        "time": "Từ 09:00 đến 17:00",
+        "area": "Một phần xã An Hảo (khu vực ấp Thiên Tuế, Vồ Đầu, Vồ Bà) - TX. Tịnh Biên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-06"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Một phần phường Mỹ Phước (khu vực Kênh Đào, dân cư Xẻo Chanh) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 16:30",
+        "area": "Mộp phần phường Bình Đức (khu vực Quốc lộ 91 từ Cây Xăng Nguyễn Văn Thăng đến cầu Xếp Bà Lý phía bên phải) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 16:00",
+        "area": "Một phần phường Mỹ Quý (Một phần khu vực Cầu Đôi) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 08:30 đến 10:00",
+        "area": "Kho Quân Cụ, hẻm trương CĐ Nghề AG- P. Bình Khánh - TP Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 09:00 đến 13:00",
+        "area": "Tại CTy TNHH MTV Tân Lê Quang, phường Bình Đức - TP. Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 10:30 đến 13:00",
+        "area": "Tại Công An tỉnh AG (Hitachi cũ), phường Mỹ Long - TP. Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 13:00 đến 15:00",
+        "area": "Khu vực Chung cư Công ty Xây lắp An Giang, phường Mỹ Phước - TP. Long Xuyên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Đường Nguyễn Văn Thoại từ Thủ Khoa Huân đến Viễn thông Châu Đốc (không bao gồm Viễn thông Châu Đốc);",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Bưu Điện Vĩnh Tế (Núi Sam) 471CĐ/160/1, phường Núi Sam, Tp. Châu Đốc;",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Các TBA thuộc phường Núi Sam, Tp Châu Đốc bán tổng cho Cty Điện Nước An Giang:",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Các TBA thuộc phường Núi Sam, Tp Châu Đốc bán tổng cho Cty Điện Nước An Giang:",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 17:00",
+        "area": "Tổ 1 đến tổ 24 ấp Khánh An, tổ 1 đến tổ 7 ấp Khánh Đức thuộc xã Khánh Hòa; xã Mỹ Phú (trừ khu vực dọc bờ bắc Kênh Vịnh Tre và dọc theo Quốc lộ 91 từ Kênh Vịnh Tre đến Ban Trị sự Phật giáo Hòa Hảo xã Mỹ Phú) và một phần xã Mỹ Đức (dọc theo Quốc lộ 91 đoạn từ quán cơm Chín Vui đến cầu Cần Thảo) - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 07:30",
+        "area": "xã Ô Long Vỹ, ấp Mỹ Quý, Mỹ An, Mỹ Thạnh, ấp Mỹ Hưng xã Mỹ Phú, một phần ấp Mỹ Thiện, Mỹ Thành xã Mỹ Đức - Huyện Châu Phú .",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp Nguyễn Thị Hường thuộc xã Khánh Hòa - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp T1B Bình An Thạnh Lợi thuộc thị trấn Vĩnh Thạnh Trung - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp T3B Ô Long Vĩ thuộc xã Ô Long Vĩ - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "7 tháng 5 năm 2025",
+        "time": "Từ 17:00 đến 17:30",
+        "area": "xã Ô Long Vỹ, ấp Mỹ Quý, Mỹ An, Mỹ Thạnh, ấp Mỹ Hưng xã Mỹ Phú, một phần ấp Mỹ Thiện, Mỹ Thành xã Mỹ Đức - Huyện Châu Phú .",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-07"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Các TBA bán tổng cho Cty Điện Nước An Giang:",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Các TBA bán tổng cho Cty Điện Nước An Giang:",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Hộ Kinh doanh La Đoàn Phước Ngọc 471CĐ/193/40/1, phường Núi Sam, Tp Châu Đốc;",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Các TBA bán tổng cho Cty Điện Nước An Giang:",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Thị xã Tân Châu",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Phường Long Phú – Thị xã Tân Châu.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Thị xã Tân Châu",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Xã Lê Chánh – Thị xã Tân Châu.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Thoại Sơn",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 10:00",
+        "area": "Tại TBA Công ty TNHH Linh Thắm, xã Định thành, huyện Thoại sơn",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Thoại Sơn",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 10:00 đến 12:00",
+        "area": "Tại TBA Hậu chợ Kênh Ranh, xã Định thành, huyện Thoại sơn",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 17:00",
+        "area": "Một phần xã Ô Long Vĩ (tổ 6, 7, 8 ấp Long Hòa; tổ 6, 7, 8 ấp Long Thiện); một phần xã Thạnh Mỹ Tây (tổ 5, 6, 7 và tổ 24 đến tổ 26 ấp Thạnh Hòa; tổ 1 đến tổ 10 và tổ 18 đến tổ 24 ấp Mỹ Bình; tổ 1 đến tổ 12 ấp Tây An; tổ 1 đến tổ 15 ấp Bờ Dâu; tổ 1 đến tổ 7 ấp Long Châu; tổ 1 đến tổ 8 và tổ 17 ấp Ba Xưa; tổ 1 đến tổ 6 ấp Thạnh Phú; tổ 1 đến tổ 13 và tổ 16 đến tổ 21 ấp Cầu Dây - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp Mỹ Đức 9C thuộc xã Mỹ Đức - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp Nguyễn Thanh Phong thuộc xã Khánh Hòa - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp T4B Khánh Hòa thuộc xã Khánh Hòa - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp T6 Khánh Bình - Khánh Hòa thuộc xã Khánh Hòa - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp Đào Ngọc Thạnh thuộc xã Ô Long Vĩ - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp TB K9 NKĐ thuộc xã Ô Long Vĩ - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp T6 Ô Long Vỹ thuộc xã Ô Long Vĩ - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp TB M500 K14 BCT thuộc xã Ô Long Vĩ - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Một phần xã Phú Hưng và Phú Thọ (từ Cầu sắt Phú Hưng hướng về xã Phú Xuân, dọc theo lộ nhựa nông thôn bờ Bắc rạch Cái Tắc và Kênh Sườn Phú Thọ), một phần xã Phú Xuân (từ giáp ranh xã Phú Hưng đến lò sấy lúa Trần Long Triều) - huyện Phú Tân.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Một phần xã Phú Hưng và Phú Thọ (từ Cầu sắt Phú Hưng hướng về xã Phú Xuân, dọc theo lộ nhựa nông thôn bờ Bắc rạch Cái Tắc và Kênh Sườn Phú Thọ), một phần xã Phú Xuân (từ giáp ranh xã Phú Hưng đến lò sấy lúa Trần Long Triều) - huyện Phú Tân.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "8 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Một phần xã Tân Hòa và một phần xã Hiệp Xương (từ Chợ Nhơn Hòa hướng đến cầu Cái Đầm và hướng đến ngã ba Út Ngoán; ấp Hiệp Hòa thuộc xã Hiệp Xương) - huyện Phú Tân.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-08"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Phòng Khám Đa Khoa Lữ Văn Trạng 471CĐ/2/1, phường Vĩnh Mỹ, Tp. Châu Đốc;",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "KHACH SẠN ĐẶNG VĂN HIỆP 471CĐ/52/1 tuyến 471 CĐ, phường Núi sam, TP Châu đốc.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "CTy TNHH Cao Phong 471CĐ/118/1 tuyến 471 CĐ, phường Châu Phú A, TP Châu đốc.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Trung tâm Thanh thiếu niên AG, Tân Lộ Kiều Lương, phường Châu Phú B, Tp. Châu Đốc;",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Cơ sở tiếp nhận đối tượng xã hội tỉnh An Giang-471CĐ/136B/33A/1, phường Núi Sam, Tp. Châu Đốc.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Thị xã Tân Châu",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Xã Vĩnh Xương – Thị xã Tân Châu.",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Thị xã Tân Châu",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:30 đến 17:00",
+        "area": "Xã Vĩnh Xương – Thị xã Tân Châu.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp Trần Thị Hớn thuộc xã Mỹ Phú - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp Cty TNHH Phát Triển Lộc Kim Chi thuộc xã Mỹ Phú - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp T13 Thạnh Mỹ Tây thuộc xã Đào Hữu Cảnh - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp -TB Ấp Chiến Lược Tây K12 thuộc xã Thạnh Mỹ Tây - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp TB K14 K10 Châu Phú thuộc xã Bình Phú - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Châu Phú",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 17:00",
+        "area": "Trạm biến áp T20 Vĩnh Thạnh Trung thuộc Đào Hữu Cảnh - huyện Châu Phú",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Một phần xã Tân Hòa (dọc kênh Mương Trường Học từ cầu Miếu Đôi hướng về cầu Trường A) - huyện Phú Tân.",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Một phần thị trấn Phú Mỹ (Khách hàng sử dụng điện ASSH khu vực dọc đường Trần Văn Thành và đường Nguyễn Trung Trực) - huyện Phú Tân.",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Một phần thị trấn Phú Mỹ (Khách hàng sử dụng điện ASSH khu vực dọc đường Trần Văn Thành và đường Nguyễn Trung Trực) - huyện Phú Tân.",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 11:00",
+        "area": "Cty Ngọc Hân, khóm Hòa Hưng phường Nhà Bàng – TX. Tịnh Biên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 11:00",
+        "area": "Tịnh Xá Ngọc Thanh, phường Nhà Bàng – TX. Tịnh Biên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 11:00",
+        "area": "Trường THCS Nguyễn Sinh Sắc, phường Nhơn Hưng – TX. Tịnh Biên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 13:00 đến 17:00",
+        "area": "NMNĐ Lê Văn Kháng, phường Nhơn Hưng – TX. Tịnh Biên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 13:00 đến 17:00",
+        "area": "TBA T4 Nhà Bàng, khóm Hòa Hưng phường Nhà Bàng – TX. Tịnh Biên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Huyện Tịnh Biên",
+        "date": "9 tháng 5 năm 2025",
+        "time": "Từ 13:00 đến 17:00",
+        "area": "TBA T12 Nhà Bàng, khóm Hòa Hưng phường Nhà Bàng – TX. Tịnh Biên",
+        "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-09"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 06:20 đến 07:00",
+        "area": "* Phường Châu Phú B, trừ:",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 06:20 đến 07:00",
+        "area": "Khu dân cư Vĩnh Mỹ - phường Vĩnh Mỹ & Bệnh viện đa khoa khu vực tỉnh - TX Châu Đốc",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 06:20 đến 07:00",
+        "area": "Đường Nguyễn Trường Tộ, Phan Đình Phùng nối dài, Lê Lai, Khu TM Khang An, CoopMark Châu Đốc, Vietcombank Châu Đốc - phường Châu Phú B - TP Châu Đốc",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 06:30 đến 18:00",
+        "area": "Đường La Thành Thân; Chợ Châu Long; Đường Tôn Đức Thắng dãy số lẻ từ Xưởng Cơ Khí đến Thế giới di động phường Vĩnh Mỹ, Tp. Châu Đốc;",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 06:30 đến 18:00",
+        "area": "Đường La Thành Thân; Chợ Châu Long; Đường Tôn Đức Thắng dãy số lẻ từ Xưởng Cơ Khí đến Thế giới di động phường Vĩnh Mỹ, Tp. Châu Đốc;",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 17:50 đến 18:30",
+        "area": "Khu dân cư Vĩnh Mỹ - phường Vĩnh Mỹ & Bệnh viện đa khoa khu vực tỉnh - TX Châu Đốc",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 17:50 đến 18:30",
+        "area": "* Phường Châu Phú B, trừ:",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Thành phố Châu Đốc",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 17:50 đến 18:30",
+        "area": "Đường Nguyễn Trường Tộ, Phan Đình Phùng nối dài, Lê Lai, Khu TM Khang An, CoopMark Châu Đốc, Vietcombank Châu Đốc - phường Châu Phú B - TP Châu Đốc",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Xã Phú Thọ, Phú An, một phần thị trấn Phú Mỹ (dọc QL80B từ cầu Cái Tắc hướng đến Cty An Thọ và khu vực TDC Phú Mỹ - Phú Thọ), một phần thị trấn Chợ Vàm - huyện Phú Tân.",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Huyện Phú Tân",
+        "date": "10 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Thị trấn Chợ Vàm, xã Phú Thạnh - huyện Phú Tân.",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-10"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "11 tháng 5 năm 2025",
+        "time": "Từ 07:00 đến 18:00",
+        "area": "Một một phần phường Mỹ Thạnh (khu vực Tư Tề) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-11"
+    },
+    {
+        "power_company": "Điện lực Thành phố Long Xuyên",
+        "date": "11 tháng 5 năm 2025",
+        "time": "Từ 08:00 đến 16:00",
+        "area": "Một phần phường Mỹ Thới (khu vực Lò Bún, NM Kitoku, NM Angimex, nước đá Minh Thư, Cty Du lịch miền Núi, Cty AG-BaSa, Giấy Tân Tiến, Thực phẩm Vĩnh Long, NM Việt An, cổng sau BV Hạnh Phúc) - TP. Long Xuyên",
+        "reason": "Bảo trì, sửa chữa lưới điện",
+        "status": "Đã duyệt",
+        "crawled_date": "2025-05-11"
+    },
+    {
+        "power_company": "Thông tin đang cập nhật",
+        "date": null,
+        "time": null,
+        "area": null,
+        "reason": null,
+        "status": null,
+        "crawled_date": "2025-05-11"
+    }
+]
