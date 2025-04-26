@@ -15,7 +15,7 @@ from email.mime.multipart import MIMEMultipart
 
 province = "an-giang"
 # Configure target areas/districts to monitor (lowercase for case-insensitive comparison)
-target_areas = ["long xuyên", "long xuyen", "tp. long xuyên", "tp long xuyên", "thành phố long xuyên", "châu phú"]
+target_areas = [ "châu phú"]
 
 email_to_send = "thanhdang.ag@gmail.com"
 # Email configuration
